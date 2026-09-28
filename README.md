@@ -1,3 +1,5 @@
+> **Moved.** This plugin now lives in the JIT Context OS monorepo: https://github.com/wojciechwiesner/jit-context/tree/master/integrations/opencode. This repository is archived.
+
 # opencode-plugin-jit-context
 
 Your coding agent forgets the project every session, then spends its first ten turns grepping for what it already knew. This plugin gives OpenCode a small, scoped, persistent project memory. Nothing is added to the prompt when there is nothing to say.
